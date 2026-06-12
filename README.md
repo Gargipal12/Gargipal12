@@ -1,6 +1,6 @@
 #                                                                          Hi, I'm Gargi 👋
 
-🎓 🎓 Undergraduate Computer Science student passionate about building software and exploring emerging technologies.
+🎓  Undergraduate Computer Science student passionate about building software and exploring emerging technologies.
 
 💻 Passionate about Software Engineering, Backend Development, Machine Learning, and building technology-driven solutions for real-world problems.
 
