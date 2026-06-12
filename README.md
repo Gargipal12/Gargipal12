@@ -67,8 +67,6 @@
 
 📧 Email: [gargipl12@gmail.com](mailto:gargipl12@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/gargi-pal-2a6a78263](http://www.linkedin.com/in/gargi-pal-2a6a78263)
-
 🌐 GitHub: https://github.com/Gargipal12
 
 ---
