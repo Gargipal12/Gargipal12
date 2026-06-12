@@ -1,45 +1,88 @@
 # Hi, I'm Gargi 👋
 
-🎓 B.Tech Computer Science Student at Manipal University Jaipur
+🎓 Undergraduate Computer Science student at Manipal University Jaipur
 
-🤖 Interested in Machine Learning, Deep Learning, Generative AI, Computer Vision, Audio AI, and Explainable AI.
+💻 Passionate about Software Engineering, Backend Development, Machine Learning, and building technology-driven solutions for real-world problems.
 
----
-
-## Featured Projects
-
-### 🎙️ VoiceShield AI — Explainable Deepfake Voice Detection
-
-* CNN: 97.59% Accuracy, 0.995 ROC-AUC
-* Wav2Vec2: 0.992 ROC-AUC
-* Deepfake voice detection using PyTorch and Hugging Face Transformers
-
-### 🍔 AI-Based Food Fraud Detection
-
-* ViT + Error Level Analysis + forensic features
-* 86% Accuracy and 0.94 ROC-AUC
-* Explainable AI pipeline for detecting AI-generated food images
+🚀 Currently learning strong software engineering fundamentals while working on full-stack and AI/ML projects, with a focus on building scalable, practical, and impactful applications.
 
 ---
 
-## Technical Skills
+## About Me
 
-**Languages:** Python, Java, C
+* 🚀 Summer Intern at IIT Jammu (AI, LLMs & AI Agents)
+* 🌱 Exploring Machine Learning, Deep Learning, Generative AI, and AI Agents
+* ⚙️ Building backend systems, APIs, and intelligent applications
+* 🤖 Interested in the intersection of Software Engineering and Artificial Intelligence
+* 📚 Always learning, building, and improving through hands-on projects
 
-**ML/AI:** PyTorch, Hugging Face Transformers, scikit-learn, OpenCV, NumPy, librosa
+---
 
-**Backend:** Spring Boot, REST APIs, JPA/Hibernate, MySQL, PostgreSQL
+## Tech Stack
 
-**Tools:** Git, GitHub, Docker, Postman
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### Backend Development
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
 
 ---
 
 ## Current Focus
 
-* Deep Learning
-* Generative AI
-* AI Agents
-* Computer Vision
-* Audio Deepfake Detection
+* Strengthening software engineering fundamentals
+* Building end-to-end full-stack applications
+* Exploring machine learning and deep learning
+* Learning Generative AI and AI Agents
+* Developing practical AI-powered solutions
 
-📫 Reach me at: **[gargipl12@gmail.com](mailto:gargipl12@gmail.com)**
+---
+
+## Featured Work
+
+Check out my pinned repositories below 👇
+
+🎙️ VoiceShield AI — Explainable Deepfake Voice Detection
+
+🍔 AI Food Fraud Detection
+
+📊 Pipeline Insight Analyzer
+
+⚙️ Backend & Full-Stack Applications
+
+---
+
+## Connect With Me
+
+📧 Email: [gargipl12@gmail.com](mailto:gargipl12@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/gargi-pal-2a6a78263](http://www.linkedin.com/in/gargi-pal-2a6a78263)
+
+🌐 GitHub: https://github.com/Gargipal12
+
+---
+
+> Learning by building, improving through curiosity, and growing one project at a time.
