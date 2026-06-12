@@ -1,4 +1,4 @@
-# Hi, I'm Gargi 👋
+#                                                                          Hi, I'm Gargi 👋
 
 🎓 Undergraduate Computer Science student at Manipal University Jaipur
 
