@@ -59,19 +59,7 @@
 * Learning Generative AI and AI Agents
 * Developing practical AI-powered solutions
 
----
 
-## Featured Work
-
-Check out my pinned repositories below 👇
-
-🎙️ VoiceShield AI — Explainable Deepfake Voice Detection
-
-🍔 AI Food Fraud Detection
-
-📊 Pipeline Insight Analyzer
-
-⚙️ Backend & Full-Stack Applications
 
 ---
 
