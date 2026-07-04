@@ -114,13 +114,6 @@ Building AI-powered workflow automations using **LLMs, n8n, and prompt engineeri
 </a>
 </p>
 
----
-
-## 📫 Connect with me
-
-📧 Email: [gargipl12@gmail.com](mailto:gargipl12@gmail.com)
-
-🌐 GitHub: https://github.com/Gargipal12
 
 ---
 
