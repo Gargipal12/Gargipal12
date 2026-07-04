@@ -2,6 +2,10 @@
 
 Computer Science undergraduate passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions. I enjoy combining strong software engineering principles with machine learning to solve real-world problems.
 
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdjcDF5aWRnNDdsbTJrcjhlNGViODJwend5YWY2N2FlbTlxMmVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding GIF">
+</p>
 ---
 
 ## 🚀 About Me
