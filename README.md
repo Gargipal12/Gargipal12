@@ -23,29 +23,12 @@ Computer Science undergraduate building scalable backend systems, AI-powered app
 
 ---
 
-# 📌 Featured Projects
+# 🚀 What I'm Building
 
-## 🚀 Task Management Backend Service
-
-Production-ready RESTful backend built using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**, featuring layered architecture, CRUD operations, and deployment on Railway.
-
-**Tech Stack:** Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • Railway
-
----
-
-## 🤖 AI-Based Food Fraud Detection
-
-Developed a computer vision pipeline combining **Vision Transformers (ViT)** with image forensic techniques to detect AI-generated food images, achieving **86% Accuracy** and **0.94 ROC-AUC**.
-
-**Tech Stack:** Python • PyTorch • OpenCV • Hugging Face Transformers • Computer Vision
-
----
-
-## 🧠 AI Workflow Automation *(Current)*
-
-Building AI-powered workflow automations using **LLMs, n8n, and prompt engineering** for resume analysis, interview preparation, personalized learning roadmaps, and document generation.
-
-**Tech Stack:** n8n • LLMs • Prompt Engineering • Google Docs API
+- 🤖 AI Agents & Workflow Automation using LLMs and n8n
+- 💻 Production-ready Backend Applications with Java & Spring Boot
+- 🧠 Machine Learning & Computer Vision Systems
+- ⚡ AI-powered Productivity and Learning Tools
 
 ---
 
