@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Backend Engineering • Artificial Intelligence • Machine Learning</b>
+  <b>Backend & Distributed Systems Enthusiast |Java • Spring Boot • Microserices Machine Learning</b>
 </p>
 
 Computer Science undergraduate building scalable backend systems, AI-powered applications, and intelligent automation solutions using **Java, Spring Boot, and Python**. Passionate about solving real-world problems through software engineering and applied artificial intelligence.
