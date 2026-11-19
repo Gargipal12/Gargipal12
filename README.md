@@ -1,7 +1,7 @@
 # Hi, I'm Gargi 👋
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="340" alt="Coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="340" alt="Coding animation"/>
 </p>
 
 <h3 align="center">Building Software. Exploring AI. Solving Real-World Problems.</h3>
