@@ -1,103 +1,129 @@
 # Hi, I'm Gargi 👋
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdjcDF5aWRnNDdsbTJrcjhlNGViODJwend5YWY2N2FlbTlxMmVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="Coding GIF"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdjcDF5aWRnNDdsbTJrcjhlNGViODJwend5YWY2N2FlbTlxMmVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdjcDF5aWRnNDdsbTJrcjhlNGViODJwend5YWY2N2FlbTlxMmVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="340" alt="Coding GIF"/>
+\</p>
 
-<p align="center">
-  <b>Backend & Distributed Systems Enthusiast | Java • Spring Boot • Microserices </b>
-</p>
+\<h3 align="center">Building Software. Exploring AI. Solving Real-World Problems.\</h3>
 
-Computer Science undergraduate building scalable backend systems, AI-powered applications, and intelligent automation solutions using **Java, Spring Boot, and Python**. Passionate about solving real-world problems through software engineering and applied artificial intelligence.
+\<p align="center">
+&#x20; \<b>Computer Science Undergraduate | Software Engineering | AI & Machine Learning\</b>
+\</p>
 
----
+I'm a Computer Science undergraduate at **Manipal University Jaipur**, interested in building practical software applications and intelligent systems. I enjoy exploring how technology can solve real-world problems — whether through software development, machine learning, or AI-powered automation.
 
-# 🚀 About Me
-
-- 🎓 **B.Tech in Computer Science & Engineering** @ Manipal University Jaipur (2023–2027)
-- 💼 **Summer Intern** at **IIT Jammu** – Artificial Intelligence, LLMs & AI Agents
-- 💻 Building production-ready backend applications using **Java & Spring Boot**
-- 🤖 Developing **AI Agents, Workflow Automations, and LLM-powered applications**
-- 🧠 Exploring **Machine Learning, Computer Vision, Generative AI, and AI Agents**
-- 📚 Strengthening **Data Structures & Algorithms** and Software Engineering fundamentals
+I believe in learning by building, experimenting with new technologies, and continuously improving the way I approach problems.
 
 ---
 
-# 🚀 What I'm Building
+## 🚀 About Me
 
-- 🤖 AI Agents & Workflow Automation using LLMs and n8n
-- 💻 Production-ready Backend Applications with Java & Spring Boot
-- 🧠 Machine Learning & Computer Vision Systems
-- ⚡ AI-powered Productivity and Learning Tools
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-## 🤖 Machine Learning & AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-## 🛠 Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at Manipal University Jaipur (2023–2027).
+- 💼 **Summer Intern at IIT Jammu** — worked on AI, LLMs, AI agents, and workflow automation.
+- 💻 Building software applications using **Java, Python, JavaScript, and modern development tools**.
+- 🤖 Exploring **Machine Learning, Computer Vision, Generative AI, and AI Agents**.
+- 🧩 Interested in problem-solving, system design fundamentals, and building useful technology.
+- 📚 Continuously strengthening my foundations in **Data Structures, Algorithms, and Software Engineering**.
 
 ---
 
-# 🎯 Current Focus
+## ✨ Featured Projects
 
-- 🚀 Backend Engineering with Java & Spring Boot
-- 🤖 AI Agents & Workflow Automation
-- 🧠 Large Language Models (LLMs)
-- 📚 Data Structures & Algorithms
-- ⚡ Building production-ready software
-- 🌱 Continuously learning and building through hands-on projects
+A few things I've worked on:
+
+### 🤖 CodePilot AI — Multi-Agent Software Engineering Assistant
+
+A multi-agent AI application designed to support software development tasks through specialized agents for planning, coding, reviewing, testing, and documentation.
+
+**Highlights:** Multi-agent workflows, human approval checkpoints, task state management, REST APIs, automated testing.
+
+[View Repository](https://github.com/Gargipal12/codepilot-ai)
+
+### 🧠 VoiceShield AI — Explainable Deepfake Voice Detection
+
+An AI-based system exploring deepfake audio detection using transformer-based audio representations and CNN-based spectrogram analysis.
+
+**Highlights:** Wav2Vec2, PyTorch, audio classification, explainable model evaluation.
+
+[View Repository](https://github.com/Gargipal12/voiceshield-ai-deepfake-detection)
+
+### 🔍 AI-Based Food Fraud Detection
+
+An image-forensics pipeline designed to identify potentially manipulated food images in online delivery platforms using deep learning and image analysis.
+
+**Highlights:** Vision Transformers, Error Level Analysis, image features, 86% accuracy, 0.94 ROC-AUC on CIFAKE.
+
+[View Repository](https://github.com/Gargipal12/ai-food-fraud-detection)
+
+### 💻 Secure Task Management Web Application
+
+A full-stack task management application with an interactive dashboard, task tracking, REST APIs, and authentication.
+
+**Highlights:** Java, Spring Boot, JavaScript, CRUD operations, JWT authentication, Docker.
+
+[View Repository](https://github.com/Gargipal12/taskmanagement)
+
+### ⚡ AI CRM & Sales Automation Platform
+
+An AI-powered workflow automation project that streamlines lead scoring, assignment, and follow-up processes.
+
+**Highlights:** n8n, Google Gemini API, workflow automation, CRM integration.
+
+[View Repository](https://github.com/Gargipal12/ai-crm-automation-platform)
 
 ---
 
-# 🤝 Connect With Me
+## 🛠️ Technologies & Tools
 
-<p align="center">
-<a href="https://linkedin.com/in/gargipal12">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Programming Languages**
 
-<a href="mailto:gargipl12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<a href="https://github.com/Gargipal12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+\
+
+
+**Web & Software Development**
+
+
+
+
+\
+
+
+**AI, Machine Learning & Data**
+
+
+
+\
+
+
+**Databases & Developer Tools**
+
+
+
+
+
+
+\
+
+
+**Automation & Testing**
+
+\
 
 
 ---
 
-> Learning by building, improving through curiosity, and growing one project at a time.
+## 🎯 What I'm Exploring
+
+- Building intelligent applications with LLMs and AI agents.
+- Developing practical machine learning and computer vision solutions.
+- Strengthening software engineering and problem-solving fundamentals.
+- Exploring how software, data, and AI can work together to solve meaningful problems.
+
+---
+
+## 🤝 Let's Connect
+
+\<p align="center">   \<a href="[https://linkedin.com/in/gargipal12](https://linkedin.com/in/gargipal12)">     \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<a href="mailto\:gargipl12\@gmail.com">     \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>   \</a>   \<a href="[https://github.com/Gargipal12](https://github.com/Gargipal12)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a> \</p>
+
+\<p align="center">   \<i>Curious by nature. Always building, learning, and experimenting. 🚀\</i> \</p>
